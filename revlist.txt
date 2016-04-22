@@ -1,0 +1,88 @@
+Path: /home/gxr/awr_reports_doc/smart
+Last Changed Rev: 20068
+Path: /home/gxr/awr_reports_doc/smart/SMART-blinded_site_inventory-WR-URS.docx
+Last Changed Rev: 19865
+Path: /home/gxr/awr_reports_doc/smart/SMART-subject_details-WR-URS.docx
+Last Changed Rev: 20056
+Path: /home/gxr/awr_reports_doc/smart/SMART-shipment_summary-WR-URS.docx
+Last Changed Rev: 20057
+Path: /home/gxr/awr_reports_doc/smart/SMART-unblinded_site_inventory-WR-URS.docx
+Last Changed Rev: 19857
+Path: /home/gxr/awr_reports_doc/smart/SMART-site_status-WR-URS.docx
+Last Changed Rev: 19857
+Path: /home/gxr/awr_reports_doc/smart/SMART-recruit_by_ctry-WR-URS.docx
+Last Changed Rev: 19857
+Path: /home/gxr/awr_reports_doc/smart/SMART-blinded_site_kit_summary-WR-URS.docx
+Last Changed Rev: 19865
+Path: /home/gxr/awr_reports_doc/smart/SMART-visit_summary-WR-URS.docx
+Last Changed Rev: 19798
+Path: /home/gxr/awr_reports_doc/smart/SMART-unblinded_site_kit_summary-WR-URS.docx
+Last Changed Rev: 20068
+Path: /home/gxr/awr_reports_doc/smart/SMART-blinded_wh_inventory-WR-URS.docx
+Last Changed Rev: 19865
+Path: /home/gxr/awr_reports_doc/smart/SMART-unblinded_wh_inventory-WR-URS.docx
+Last Changed Rev: 20068
+Path: /home/gxr/awr_reports_doc/smart/SMART-detailed_vis_sum-WR-URS.docx
+Last Changed Rev: 19775
+Path: /home/gxr/awr_reports_doc/smart/SMART-blinded_wh_kit_summary-WR-URS.docx
+Last Changed Rev: 19865
+Path: /home/gxr/awr_reports_doc/smart/SMART-unblinded_wh_kit_summary-WR-URS.docx
+Last Changed Rev: 19741
+Path: /home/gxr/awr_reports_doc/smart/SMART-site_personnel-WR-URS.docx
+Last Changed Rev: 19857
+Path: /home/gxr/awr_reports_doc/smart/SMART-recruit_by_site-WR-URS.docx
+Last Changed Rev: 19857
+Path: /home/gxr/awr_reports_doc/smart/OLD_ANSWRS
+Last Changed Rev: 19565
+Path: /home/gxr/awr_reports_doc/smart/OLD_ANSWRS/ANSWRS-I-SMART-blinded_site_inv-WR-URS.docx
+Last Changed Rev: 19565
+Path: /home/gxr/awr_reports_doc/smart/OLD_ANSWRS/global_shipment_summary.xlsx
+Last Changed Rev: 19565
+Path: /home/gxr/awr_reports_doc/smart/OLD_ANSWRS/Site_personnel_report.xlsx
+Last Changed Rev: 19565
+Path: /home/gxr/awr_reports_doc/smart/OLD_ANSWRS/ANSWRS-I-SMART-blinded_wh_inv-WR-URS-001-01.pdf
+Last Changed Rev: 19565
+Path: /home/gxr/awr_reports_doc/smart/OLD_ANSWRS/recruit_by_site_report.xlsx
+Last Changed Rev: 19565
+Path: /home/gxr/awr_reports_doc/smart/OLD_ANSWRS/unblinded_wh_kit_summary.xlsx
+Last Changed Rev: 19565
+Path: /home/gxr/awr_reports_doc/smart/OLD_ANSWRS/ANSWRS-I-SMART-visit_summary_detailed-WR-URS.docx
+Last Changed Rev: 19565
+Path: /home/gxr/awr_reports_doc/smart/OLD_ANSWRS/site_kit_summary.xlsx
+Last Changed Rev: 19565
+Path: /home/gxr/awr_reports_doc/smart/OLD_ANSWRS/ANSWRS-I-SMART-blinded_wh_inv-WR-URS.docx
+Last Changed Rev: 19565
+Path: /home/gxr/awr_reports_doc/smart/OLD_ANSWRS/ANSWRS-I-SMART-Global_shipment_summary-WR-URS-001-01.pdf
+Last Changed Rev: 19565
+Path: /home/gxr/awr_reports_doc/smart/OLD_ANSWRS/ANSWRS-I-SMART-Global_shipment_summary-WR-URS-001-02.pdf
+Last Changed Rev: 19565
+Path: /home/gxr/awr_reports_doc/smart/OLD_ANSWRS/blinded_site_inventory.xlsx
+Last Changed Rev: 19565
+Path: /home/gxr/awr_reports_doc/smart/OLD_ANSWRS/site_status_report.xlsx
+Last Changed Rev: 19565
+Path: /home/gxr/awr_reports_doc/smart/OLD_ANSWRS/wh_kit_summary.xlsx
+Last Changed Rev: 19565
+Path: /home/gxr/awr_reports_doc/smart/OLD_ANSWRS/Recruit_by_ctry_report.xlsx
+Last Changed Rev: 19565
+Path: /home/gxr/awr_reports_doc/smart/OLD_ANSWRS/ANSWRS-I-SMART-Global_shipment_summary-WR-URS.docx
+Last Changed Rev: 19565
+Path: /home/gxr/awr_reports_doc/smart/OLD_ANSWRS/unblinded_site_inventory.xlsx
+Last Changed Rev: 19565
+Path: /home/gxr/awr_reports_doc/smart/OLD_ANSWRS/visit_summary_report.xlsx
+Last Changed Rev: 19565
+Path: /home/gxr/awr_reports_doc/smart/OLD_ANSWRS/blinded_wh_inventory_report.xlsx
+Last Changed Rev: 19565
+Path: /home/gxr/awr_reports_doc/smart/OLD_ANSWRS/subject_summary_report.xlsx
+Last Changed Rev: 19565
+Path: /home/gxr/awr_reports_doc/smart/OLD_ANSWRS/ANSWRS-I-SMART-site_personnel-WR-URS.docx
+Last Changed Rev: 19565
+Path: /home/gxr/awr_reports_doc/smart/OLD_ANSWRS/ANSWRS-I-SMART-blinded_site_inv-WR-URS-001-01.pdf
+Last Changed Rev: 19565
+Path: /home/gxr/awr_reports_doc/smart/OLD_ANSWRS/unblinded_site_kit_summary.xlsx
+Last Changed Rev: 19565
+Path: /home/gxr/awr_reports_doc/smart/OLD_ANSWRS/ANSWRS-I-SMART-visit_summary_detailed-WR-URS-001-01.pdf
+Last Changed Rev: 19565
+Path: /home/gxr/awr_reports_doc/smart/OLD_ANSWRS/unblinded_wh_inventory.xlsx
+Last Changed Rev: 19565
+Path: /home/gxr/awr_reports_doc/smart/OLD_ANSWRS/ANSWRS-I-SMART-visit_summary_detailed-WR-URS-001-02.pdf
+Last Changed Rev: 19565

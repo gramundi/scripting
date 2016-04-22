@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<answrs>
+   <datasource>
+      <incoming-timestamp>2014-07-29T13:56:33Z</incoming-timestamp>
+      <processed-timestamp>2014-07-29T13:56:33Z</processed-timestamp>
+      <remote-addr>127.0.0.1</remote-addr>
+      <target-schema>KF5503-72</target-schema>
+      <schema-version>1.0.4</schema-version>
+   </datasource>
+   <country>
+      <iso>ZZ</iso>
+      <parent>
+         <id>FR101</id>
+         <domain>site</domain>
+         <childDb>
+            <form>
+               <id>site_details</id>
+               <iterator>
+                  <id>1</id>
+                  <update>
+                     <id>sitenumber</id>
+                     <value>FR101</value>
+                  </update>
+                  <update>
+                     <id>sitename</id>
+                     <value>FR site 1</value>
+                  </update>
+                  <update>
+                     <id>country</id>
+                     <value>FRA</value>
+                  </update>
+                  <update>
+                     <id>timezone</id>
+                     <value>Europe/Paris</value>
+                  </update>
+                  <update>
+                     <id>activeflag</id>
+                     <value>Y</value>
+                  </update>
+                  <update>
+                     <id>recruitrate</id>
+                     <value>MEDIUM</value>
+                  </update>
+               </iterator>
+            </form>
+            <domain>site</domain>
+            <id>FR101</id>
+         </childDb>
+      </parent>
+   </country>
+</answrs>

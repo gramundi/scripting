@@ -1,0 +1,90 @@
+Path: SMART
+Last Changed Rev: 20539
+Path: awr_SMART_wh_to_wh_shipment_summary.sql
+Last Changed Rev: 20530
+Path: awr_SMART_shipment_summary.sql
+Last Changed Rev: 19886
+Path: awr_SMART_subject_details.sql
+Last Changed Rev: 20281
+Path: awr_SMART_site_details.sql
+Last Changed Rev: 19841
+Path: awr_SMART_blinded_kit_summary_site.sql
+Last Changed Rev: 19873
+Path: awr_SMART_visit_summary.sql
+Last Changed Rev: 20204
+Path: awr_SMART_unblinded_kit_summary_site.sql
+Last Changed Rev: 19841
+Path: awr_SMART_detailed_vis_sum.sql
+Last Changed Rev: 19841
+Path: template_rename_hide_filter_columns.sql
+Last Changed Rev: 19873
+Path: awr_SMART_blinded_drug_inv_site.sql
+Last Changed Rev: 19707
+Path: reports-dblink
+Last Changed Rev: 19646
+Path: reports-dblink/get_smart_report.sql
+Last Changed Rev: 19646
+Path: awr_SMART_blinded_kit_summary_wh.sql
+Last Changed Rev: 19873
+Path: awr_SMART_unblinded_drug_inv_site.sql
+Last Changed Rev: 19841
+Path: awr_SMART_unblinded_kit_summary_wh.sql
+Last Changed Rev: 19841
+Path: CA209_204
+Last Changed Rev: 20079
+Path: CA209_204/awr_CA209_204_cols.sql
+Last Changed Rev: 20079
+Path: awr_SMART_site_personnel.sql
+Last Changed Rev: 19841
+Path: initial_setup
+Last Changed Rev: 18184
+Path: initial_setup/SMART_structure.sql
+Last Changed Rev: 18184
+Path: awr_SMART_blinded_drug_inv_wh.sql
+Last Changed Rev: 19708
+Path: install_template.sh
+Last Changed Rev: 20539
+Path: ANSWRS OLD
+Last Changed Rev: 20081
+Path: ANSWRS OLD/awr_dataTable_site_status.sql
+Last Changed Rev: 19584
+Path: ANSWRS OLD/awr_dataTable_recruit_by_ctry.sql
+Last Changed Rev: 20081
+Path: ANSWRS OLD/awr_detailed_vis_summary.sql
+Last Changed Rev: 19584
+Path: ANSWRS OLD/awr_wh_inv_configurable.sql
+Last Changed Rev: 19584
+Path: ANSWRS OLD/awr_dataTable_blinded_wh_inv.sql
+Last Changed Rev: 19584
+Path: ANSWRS OLD/awr_dataTable_visit_summary.sql
+Last Changed Rev: 19584
+Path: ANSWRS OLD/awr_dataTable_subject_summary.sql
+Last Changed Rev: 19997
+Path: ANSWRS OLD/awr_dataTable_unblind_wh_kit_summary.sql
+Last Changed Rev: 19584
+Path: ANSWRS OLD/awr_dataTable_unblinded_wh_inv.sql
+Last Changed Rev: 19584
+Path: ANSWRS OLD/awr_dataTable_site_kit_summary.sql
+Last Changed Rev: 19584
+Path: ANSWRS OLD/awr_dataTable_site_personnel.sql
+Last Changed Rev: 19584
+Path: ANSWRS OLD/awr_dataTable_recruit_by_site.sql
+Last Changed Rev: 19998
+Path: ANSWRS OLD/awr_site_inv_configurable.sql
+Last Changed Rev: 19584
+Path: ANSWRS OLD/localvisdate.sql
+Last Changed Rev: 19584
+Path: ANSWRS OLD/awr_dataTable_blinded_site_inv.sql
+Last Changed Rev: 19584
+Path: ANSWRS OLD/awr_dataTable_wh_kit_summary.sql
+Last Changed Rev: 19584
+Path: ANSWRS OLD/awr_dataTable_unblind_site_kit_summary.sql
+Last Changed Rev: 19584
+Path: ANSWRS OLD/awr_dataTable_shipment_summary.sql
+Last Changed Rev: 19584
+Path: ANSWRS OLD/awr_dataTable_unblinded_site_inv.sql
+Last Changed Rev: 19584
+Path: awr_SMART_unblinded_drug_inv_wh.sql
+Last Changed Rev: 20031
+Path: awr_SMART_recruitment.sql
+Last Changed Rev: 20273
