@@ -1,2 +1,0 @@
-DEB_HOST_MULTIARCH is not a supported variable name at /usr/bin/dpkg-architecture line 214.
-psql: fe_sendauth: no password supplied
